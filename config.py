@@ -1,2 +1,2 @@
-TOKEN = 'MTE1Mzk5MDc1NTM0MjM2ODc4OQ.GRd0EX.hVG7I_uZkyB5HS47SPR2Q14-ODgSsjPFHGriGM' # Here you enter your token. This needs to be kept secret as other people will be able to access your bot if they get it
+TOKEN = '' # Here you enter your token. This needs to be kept secret as other people will be able to access your bot if they get it.
 PREFIX = '!' # I have set your prefix here but really it could be anything, however it is usually a special character like ! or $
